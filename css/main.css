@@ -1,7 +1,5 @@
 
-<<<<<<< HEAD
 @media only screen and (max-width: 768px) {
-
     
     .media.service-box {
         margin: 0px;
@@ -25,21 +23,16 @@
 
 }
 
-
-
-=======
 @media only screen and (min-width: 768px) {
     .preview {
         top:-30px;
         position: relative;
     }
 }
->>>>>>> origin/gh-pages
 #pricing {
     margin-bottom:10px;
 }
 
-<<<<<<< HEAD
 #services {
     background-color: #3E9E48
 }
@@ -47,9 +40,6 @@
 #services i{
     padding-right: 80px;
 }
-=======
-
->>>>>>> origin/gh-pages
 
 #contact-us {
     background-color: #3E9E48;
@@ -58,7 +48,6 @@
 .contact-info {
     background-color: #67D4CE;
 }
-<<<<<<< HEAD
 
 /*MEDIUM DEVICES*/
 @media (min-width: 768px){
@@ -66,5 +55,3 @@
         
     }
 }
-=======
->>>>>>> origin/gh-pages
